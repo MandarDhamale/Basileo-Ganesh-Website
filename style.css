@@ -74,3 +74,9 @@ footer {
           transform: translateX(-100%);
         }
       }
+
+      .alert-sm {
+        padding: 5px 5px; /* Adjust padding */
+        /* font-size: 0.875rem; /* Adjust font size */
+        /* line-height: 1.25; Adjust line height */ */
+      }
