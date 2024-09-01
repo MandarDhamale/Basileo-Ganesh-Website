@@ -10,11 +10,6 @@ header {
     background: url('ganesh_bg.jpg') no-repeat center center/cover;
 }
 
-.header_logo{
-  height: 80px;
-  width: 152px; 
-}
-
 h1, h2, h3, h5, h6 {
     font-weight: 700;
 }
